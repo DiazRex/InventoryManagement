@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+sample
 
 #
 # Copyright 2015 the original author or authors.
